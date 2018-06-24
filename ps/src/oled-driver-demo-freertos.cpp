@@ -64,7 +64,7 @@ struct Application {
 
     TimerHandle_t   animationTimer;
         /* When this timer expires the next frame from the currently selected
-         * frames is displayed. */
+         * animation is displayed. */
 
     Animation       *animations;
         /* Animations that the user can select from. */
@@ -72,7 +72,7 @@ struct Application {
     size_t          animationsNb;
         /* Number of animations. */
 
-    size_t          animationIdx;
+    AnimationIdx    animationIdx;
         /* Index of an animation that is currently selected for being played. */
 
     size_t          frameIdx;
@@ -252,7 +252,7 @@ main(void) {
     application.queue = 
         xQueueCreate(
             1,                      /* There is only one space in the queue... */
-            sizeof(AnimationIdx)    /* ... for a MenuId. */
+            sizeof(AnimationIdx)    /* ... for an AnimationIdx. */
     );
 
     /* Check the queue was created. */
