@@ -1,7 +1,7 @@
 # OLED Driver Demo
 
 ## Overview
-This repository includes files that are required for building a demo application that is presented in the [this video clip](https://github.com/zdzislaw-s/oled-driver-demo/blob/master/oled-driver-demo.mp4). The schematic diagram for the hardware part of the project is presented in [this .pdf file](https://github.com/zdzislaw-s/oled-driver-demo/blob/master/oled-driver-demo.pdf).
+This repository includes files that are required for building a demo application that is presented in the [this video clip](https://github.com/zdzislaw-s/oled-driver-demo/blob/master/oled-driver-demo.mp4). The schematic diagram for the hardware part of the project is presented in [this .pdf file](https://github.com/zdzislaw-s/oled-driver-demo/blob/master/oled_driver_demo.pdf).
 
 ## Hardware
 - ZedBoard Rev. D
