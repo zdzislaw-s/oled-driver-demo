@@ -28,8 +28,8 @@ That's all.
 
 ### Acknowledgements
 In working on this project, I found the following resources, to greater or lesser extent,  helpful:
-- (https://cdn-shop.adafruit.com/datasheets/SSD1306.pdf)
-- (https://cdn-shop.adafruit.com/datasheets/UG-2832HSWEG04.pdf)
-- (https://github.com/jmwilson/Adafruit_SSD1306_MicroBlaze)
-- (https://github.com/Digilent/Zedboard-OLED)
-- (http://minized.org/zh-hant/comment/1766#comment-1766)
+- https://cdn-shop.adafruit.com/datasheets/SSD1306.pdf
+- https://cdn-shop.adafruit.com/datasheets/UG-2832HSWEG04.pdf
+- https://github.com/jmwilson/Adafruit_SSD1306_MicroBlaze
+- https://github.com/Digilent/Zedboard-OLED
+- http://minized.org/zh-hant/comment/1766#comment-1766
